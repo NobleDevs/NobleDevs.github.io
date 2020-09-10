@@ -10,3 +10,38 @@ body{
     background: linear-gradient(to right, #f64f59, #c471ed, #12c2e9); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
 
 }
+
+.topnav {
+  background-color: #2E3440;
+  overflow: hidden;
+  border: 10px solid #2E3440;
+  border-radius: 10px;
+}
+
+/* Style the links inside the navigation bar */
+.topnav a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 4px 6px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+/* Change the color of links on hover */
+.topnav a:hover {
+  background-color: #ddd;
+  color: black;
+  border-radius: 10px ;
+}
+
+/* Add a color to the active/current link */
+.topnav a.active {
+  background-color: #4CAF50;
+  color: white;
+  border-radius: 10px ;
+}
+
+.topnav a.all {
+  font-family: Verdana, Geneva, sans-serif;
+}
