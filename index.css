@@ -57,7 +57,59 @@ body{
 	
 	0% {background: linear-gradient(to right, rgb(246, 79, 89), rgb(196, 113, 237), rgb(18, 194, 233));}
 	1% {background: linear-gradient(to right, rgb(247, 80, 90), rgb(197, 114, 238), rgb(19, 195, 234));}
-	50% {background: linear-gradient(to right, rgb(296, 129, 139), rgb(246, 163, 287), rgb(68, 244, 283));}
+	2% {background: linear-gradient(to right, rgb(248, 81, 91), rgb(198, 115, 239), rgb(20, 196, 235));}
+	3% {background: linear-gradient(to right, rgb(249, 82, 93), rgb(199, 116, 240), rgb(21, 197, 236));}
+	4% {background: linear-gradient(to right, rgb(250, 83, 94), rgb(200, 117, 241), rgb(22, 198, 237));}
+	5% {background: linear-gradient(to right, rgb(251, 84, 95), rgb(201, 118, 242), rgb(23, 199, 238));}
+	6% {background: linear-gradient(to right, rgb(252, 85, 96), rgb(202, 119, 243), rgb(24, 200, 239));}
+	7% {background: linear-gradient(to right, rgb(253, 86, 97), rgb(203, 120, 244), rgb(25, 201, 240));}
+	8% {background: linear-gradient(to right, rgb(254, 87, 98), rgb(204, 121, 245), rgb(26, 202, 241));}
+	9% {background: linear-gradient(to right, rgb(255, 88, 99), rgb(205, 122, 246), rgb(27, 203, 242));}
+	10% {background: linear-gradient(to right, rgb(256, 89, 100), rgb(206, 123, 247), rgb(28, 204, 243));}
+	11% {background: linear-gradient(to right, rgb(257, 90, 101), rgb(207, 124, 248), rgb(29, 205, 244));}
+	12% {background: linear-gradient(to right, rgb(258, 91, 102), rgb(208, 125, 249), rgb(30, 206, 245));}
+	13% {background: linear-gradient(to right, rgb(259, 92, 103), rgb(209, 126, 250), rgb(31, 207, 246));}
+	14% {background: linear-gradient(to right, rgb(260, 93, 104), rgb(210, 127, 251), rgb(32, 208, 247));}
+	15% {background: linear-gradient(to right, rgb(261, 94, 105), rgb(211, 128, 252), rgb(33, 209, 248));}
+	16% {background: linear-gradient(to right, rgb(262, 95, 106), rgb(212, 129, 253), rgb(34, 210, 249));}
+	17% {background: linear-gradient(to right, rgb(263, 96, 107), rgb(213, 130, 254), rgb(35, 211, 250));}
+	18% {background: linear-gradient(to right, rgb(264, 97, 108), rgb(214, 131, 255), rgb(36, 212, 251));}
+	19% {background: linear-gradient(to right, rgb(265, 98, 109), rgb(215, 132, 256), rgb(37, 213, 252));}
+	20% {background: linear-gradient(to right, rgb(266, 99, 110), rgb(216, 133, 257), rgb(38, 214, 253));}
+	21% {background: linear-gradient(to right, rgb(267, 100, 111), rgb(217, 134, 258), rgb(39, 215, 254));}
+	22% {background: linear-gradient(to right, rgb(268, 101, 112), rgb(218, 135, 259), rgb(40, 216, 255));}
+	23% {background: linear-gradient(to right, rgb(269, 102, 113), rgb(219, 136, 260), rgb(41, 217, 256));}
+	24% {background: linear-gradient(to right, rgb(270, 103, 114), rgb(220, 137, 261), rgb(42, 218, 257));}
+	25% {background: linear-gradient(to right, rgb(271, 104, 115), rgb(221, 138, 262), rgb(43, 219, 258));}
+	25% {background: linear-gradient(to right, rgb(272, 105, 116), rgb(222, 139, 263), rgb(44, 220, 259));}
+	26% {background: linear-gradient(to right, rgb(273, 106, 117), rgb(223, 140, 264), rgb(45, 221, 260));}
+	27% {background: linear-gradient(to right, rgb(274, 107, 118), rgb(224, 141, 265), rgb(46, 222, 261));}
+	28% {background: linear-gradient(to right, rgb(275, 108, 119), rgb(225, 142, 266), rgb(47, 223, 262));}
+	29% {background: linear-gradient(to right, rgb(276, 109, 120), rgb(226, 143, 267), rgb(48, 224, 263));}
+	30% {background: linear-gradient(to right, rgb(277, 110, 121), rgb(227, 144, 268), rgb(49, 225, 264));}
+	31% {background: linear-gradient(to right, rgb(278, 111, 122), rgb(228, 145, 269), rgb(50, 226, 265));}
+	32% {background: linear-gradient(to right, rgb(279, 112, 123), rgb(229, 146, 270), rgb(51, 227, 266));}
+	33% {background: linear-gradient(to right, rgb(280, 113, 124), rgb(230, 147, 271), rgb(52, 228, 267));}
+	34% {background: linear-gradient(to right, rgb(281, 114, 125), rgb(231, 148, 272), rgb(53, 229, 268));}
+	35% {background: linear-gradient(to right, rgb(282, 115, 126), rgb(232, 149, 273), rgb(54, 230, 269));}
+	36% {background: linear-gradient(to right, rgb(283, 116, 127), rgb(233, 150, 274), rgb(55, 231, 270));}
+	37% {background: linear-gradient(to right, rgb(284, 117, 128), rgb(234, 151, 275), rgb(56, 232, 271));}
+	38% {background: linear-gradient(to right, rgb(285, 118, 129), rgb(235, 152, 276), rgb(57, 233, 272));}
+	39% {background: linear-gradient(to right, rgb(286, 119, 130), rgb(236, 153, 277), rgb(58, 234, 273));}
+	40% {background: linear-gradient(to right, rgb(287, 120, 131), rgb(237, 154, 278), rgb(59, 235, 274));}
+	41% {background: linear-gradient(to right, rgb(288, 121, 132), rgb(238, 155, 279), rgb(60, 236, 275));}
+	42% {background: linear-gradient(to right, rgb(289, 122, 133), rgb(239, 156, 280), rgb(61, 237, 276));}
+	43% {background: linear-gradient(to right, rgb(290, 123, 134), rgb(240, 157, 281), rgb(62, 238, 277));}
+	44% {background: linear-gradient(to right, rgb(291, 124, 135), rgb(241, 158, 282), rgb(63, 239, 278));}
+	45% {background: linear-gradient(to right, rgb(292, 125, 136), rgb(242, 159, 283), rgb(64, 240, 279));}
+	46% {background: linear-gradient(to right, rgb(293, 126, 137), rgb(243, 160, 284), rgb(65, 241, 280));}
+	47% {background: linear-gradient(to right, rgb(294, 127, 138), rgb(244, 161, 285), rgb(66, 242, 281));}
+	48% {background: linear-gradient(to right, rgb(295, 128, 139), rgb(245, 162, 286), rgb(67, 243, 282));}
+	49% {background: linear-gradient(to right, rgb(296, 129, 140), rgb(246, 163, 287), rgb(68, 244, 283));}
+	50% {background: linear-gradient(to right, rgb(297, 130, 141), rgb(247, 164, 288), rgb(69, 245, 284));}
+	51% {background: linear-gradient(to right, rgb(296, 129, 140), rgb(246, 163, 287), rgb(68, 244, 283));}
+	52% {background: linear-gradient(to right, rgb(295, 128, 139), rgb(245, 162, 286), rgb(67, 243, 282));}
+	
 	100% {background: linear-gradient(to right, rgb(246, 79, 89), rgb(196, 113, 237), rgb(18, 194, 233));}
 	
 }
