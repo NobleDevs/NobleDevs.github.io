@@ -5,10 +5,10 @@
 	color: white;
 }
 body{
-	background: #12c2e9;  /* fallback for old browsers */
-    background: -webkit-linear-gradient(to right, #f64f59, #c471ed, #12c2e9);  /* Chrome 10-25, Safari 5.1-6 */
-    background: linear-gradient(to right, #f64f59, #c471ed, #12c2e9); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
-
+	animation-name: back;
+  	animation-duration: 3s;
+    animation-iteration-count: infinite;
+	background-attachment: fixed;
 }
 
 .topnav {
@@ -44,4 +44,26 @@ body{
 
 .topnav a.all {
   font-family: Verdana, Geneva, sans-serif;
+}
+
+
+
+@keyframes back {
+	/*
+	68%, 64%, 4%
+	52%, 0%, 7%
+	17%, 0%, 9%
+	*/
+	
+	0% {background: linear-gradient(to right, rgb(246, 79, 89), rgb(196, 113, 237), rgb(18, 194, 233));}
+	1% {background: linear-gradient(to right, rgb(247, 80, 90), rgb(197, 114, 238), rgb(19, 195, 234));}
+	50% {background: linear-gradient(to right, rgb(296, 129, 139), rgb(246, 163, 287), rgb(68, 244, 283));}
+	100% {background: linear-gradient(to right, rgb(246, 79, 89), rgb(196, 113, 237), rgb(18, 194, 233));}
+	
+}
+
+@keyframes test {
+	0% {background-color: red;}
+  	50% {background-color: yellow;}
+	100% {background-color: red;}
 }
